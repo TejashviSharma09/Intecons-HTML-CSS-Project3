@@ -1,15 +1,24 @@
-# Created By Punit Maheshwari
+# HTML CSS Project-3 at Intecons
 
-# Topic I learned
+  
 
-> In this project i learned about how to use Flexbox properties and set images in the backgroud.
+## About the Project :-
 
-# Time Taken
+>1) The project is based on **HTML and CSS**.
+>2) This project is a part of Styling Challenge Series.
+ >3) **Prominent CSS properties** used are _flex_ and _position_.
 
-> This webpage takes around 1 hr.
 
-# Screenshot
+## Project  _**ScreenShot**_ :-
+![Project-3-SS](Project3-SS.jpeg)
 
-![Project 3](./ss_project3.png)
 
-[![Badge](https://img.shields.io/badge/Project%203-Live%20Link-orange)](https://html-live-project-three.netlify.app)
+## Project Link :- 
+[![Live Project 3](https://img.shields.io/badge/Project--3-Intecons--Justice-green)](https://tasty-food-diner.netlify.app/)
+
+  
+  
+  
+  
+
+

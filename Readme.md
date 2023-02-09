@@ -14,7 +14,7 @@
 
 
 ## Project Link :- 
-[![Live Project 3](https://img.shields.io/badge/Project--3-Intecons--Justice-green)](https://tasty-food-diner.netlify.app/)
+[![Live Project 3](https://img.shields.io/badge/Project--3-Intecons--Justice-green)](https://intecons-justice.netlify.app/)
 
   
   
